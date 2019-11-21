@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resourses>
+    <string name="app_name">Dictinoary</string>
+    <String-array name="countries">
+        <item>Nepal</item>
+        <item>India</item>
+        <item>US</item>
+        <item>China</item>
+    </String-array>
+</resourses>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+</LinearLayout>
